@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate developer exploring **Machine Learning, AI, and Web Development**.  
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave" height="200px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave" height="100px">
 
 ---
 
@@ -47,9 +47,10 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 ---
 
 ## ✨ Fun Projects
-- **📱 Phone Addiction Analysis** – Python & ML with deployment 
-- **🤖 ML Model Deployment** – FastAPI & SwaggerUI 
-- **👩‍💻 Web-based projects** – HTML, CSS, JavaScript 
+- **📱 Phone Addiction Analysis** – Python & ML with deployment, FastAPI & SwaggerUI 
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Python Project" height="200px">  
+- **👩‍💻 Web-based projects** – HTML, CSS, JavaScript
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Web Project" height="200px"> 
 
 ---
 
