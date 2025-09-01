@@ -28,8 +28,8 @@ I'm a passionate developer interested in:
 ![Natashaa7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natashaa7&show_icons=true&theme=radical)
 
 ## 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/natasha-babu-0718ab372/)
-- [Email](natashashresthaaa@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-babu-0718ab372/)
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](natashashresthaaa@gmail.com)
 
 ---
 
