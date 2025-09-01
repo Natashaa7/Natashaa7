@@ -61,4 +61,4 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 ---
 
 ## 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/Natashaa7/count.svg)
+![Profile Visitors](https://visitorbadge.io/badge?page_id=Natashaa7.Natashaa7)
