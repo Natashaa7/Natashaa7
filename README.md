@@ -61,4 +61,4 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 ---
 
 ## 👀 Visitors
-![Profile Visitors](https://visitorbadge.io/badge?page_id=Natashaa7.Natashaa7)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Natashaa7&label=Profile%20Visitors&labelColor=%23d9e3f0&countColor=%23263759)](https://visitorbadge.io/status?path=Natashaa7)
