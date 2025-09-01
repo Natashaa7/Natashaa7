@@ -15,6 +15,9 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 
 ---
 
+<!-- Funny coding GIF -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Vigorously" height="200px">
+
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
