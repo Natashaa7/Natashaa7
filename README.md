@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate developer exploring **Machine Learning, AI, and Web Development**.  
 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave" height="200px">
 
 ---
 
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 ## ⚡ Fun Facts
 - I love **solving real-world problems with code**  
 - Always learning **new tech to build better projects**  
-- Coffee & code = ❤️  
+- Tea & code = ❤️  
 
 ---
 
