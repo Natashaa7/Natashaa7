@@ -47,9 +47,9 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 ---
 
 ## ✨ Fun Projects
-- **📱 Phone Addiction Analysis** – Python & ML with deployment, FastAPI & SwaggerUI
+- **📱 Phone Addiction Analysis** – Python & ML with deployment, FastAPI & SwaggerUI    
 https://github.com/Natashaa7/Phone-Addiction-Analysis 
-- **👩‍💻 Web-based projects** – HTML, CSS, JavaScript
+- **👩‍💻 Web-based projects** – HTML, CSS, JavaScript    
 https://github.com/Natashaa7/Veloura 
 
 ---
