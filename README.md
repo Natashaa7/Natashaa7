@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 
 ---
 
-![Coding Humor](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
@@ -49,10 +47,10 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 ---
 
 ## ✨ Fun Projects
-- **📱 Phone Addiction Analysis** – Python & ML with deployment, FastAPI & SwaggerUI 
-![Python Project](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+- **📱 Phone Addiction Analysis** – Python & ML with deployment, FastAPI & SwaggerUI
+https://github.com/Natashaa7/Phone-Addiction-Analysis 
 - **👩‍💻 Web-based projects** – HTML, CSS, JavaScript
-![Web Project](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) 
+https://github.com/Natashaa7/Veloura 
 
 ---
 
