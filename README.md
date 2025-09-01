@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 
 ---
 
-<!-- Funny coding GIF -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Vigorously" height="200px">
+![Coding Humor](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
@@ -51,9 +50,9 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 
 ## ✨ Fun Projects
 - **📱 Phone Addiction Analysis** – Python & ML with deployment, FastAPI & SwaggerUI 
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Python Project" height="200px">  
+![Python Project](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
 - **👩‍💻 Web-based projects** – HTML, CSS, JavaScript
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Web Project" height="200px"> 
+![Web Project](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) 
 
 ---
 
