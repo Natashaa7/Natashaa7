@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **ML projects & web apps**  
-- 🌱 Learning **FastAPI, Python ML workflows, and advanced web development**  
+- 🔭 Currently working on **ML projects**  
+- 🌱 Learning **FastAPI, Python ML workflows, and web development**  
 - 👯 Open to **collaborating on open-source projects**  
 - 💬 Ask me about **Python, Java, AI, or Web Development**  
 - ⚡ Fun fact: I love **turning ideas into code!**  
@@ -47,9 +47,9 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **Machine L
 ---
 
 ## ✨ Fun Projects
-- **Phone Addiction Analysis** – Python & ML with deployment ![Python](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
-- **ML Model Deployment** – FastAPI & SwaggerUI ![API](https://media.giphy.com/media/3ohc0X6yN0JEOa1qLq/giphy.gif)  
-- Web-based projects – HTML, CSS, JavaScript ![Web](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
+- **📱 Phone Addiction Analysis** – Python & ML with deployment 
+- **🤖 ML Model Deployment** – FastAPI & SwaggerUI 
+- **👩‍💻 Web-based projects** – HTML, CSS, JavaScript 
 
 ---
 
