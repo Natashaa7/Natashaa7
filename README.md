@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Natashaa7! 👋
 
-<!--
-**Natashaa7/Natashaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer interested in:
+- 🤖 Machine Learning & AI
+- 🌐 Web Development
+- 🛠️ Open Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma (Beginner)](https://img.shields.io/badge/-Figma-Beginner-figma?logo=figma&logoColor=white)
+![JavaScript (Beginner)](https://img.shields.io/badge/-JavaScript-Beginner-F7DF1E?logo=javascript&logoColor=black)
+
+<!-- Add or remove technologies as you like -->
+
+## 🌱 Currently Learning
+- 🐍 Python
+- 💨 FastAPI
+- ⏳ ML Workflow
+
+## 📈 GitHub Stats
+![Natashaa7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natashaa7&show_icons=true&theme=radical)
+
+## 🤝 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/natasha-babu-0718ab372/)
+- [Email](natashashresthaaa@gmail.com)
+
+---
+
+_Thanks for visiting my profile! Have a great day!_
